@@ -1,29 +1,21 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2020-10-12 11:12:57 +0400
-categories: jekyll update
+title:  "Удаленка"
+date:   2021-02-22 11:12:57 +0400
+categories: thoughts
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Одно дело, когда работа дома это временное явление и позже придется возвращаться в офис. Другое когда удаленная работа постоянно. 
 
-Jekyll requires blog post files to be named according to the following format:
+В начале прошлого года из-за карантина компания, в которой я работал, как и многое другие, перевела сотрудников на работу из дома. Для меня такая вынужденная мера казалась временной и позже планировал снова выйти в офис. Но так сложилось, в середине года сменил место работы. И временное стало постоянным. Сбылась мечта - официальная полностью удаленная работа из дома. Не нужно тратить время, чтобы доехать до офиса и обратно. Отсюда больше свободного времени. 
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Казалось бы все круто, но нет. В последние пару месяцев начал наблюдать одну неприятную ситуацию. Если раньше вставал в одно и тоже время, чтобы добраться на работу к 9, то со сменой формата работы обычный режим дня постепенно начал «плыть». Утро для меня самый продуктивный период. Так как стал вставать и соответственно ложиться спать позже, то начала прослеживаться проблема с продуктивностью.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Надо что-то с этим делать. Точнее разобраться в проблеме и попробовать ее решить. В результате появился небольшой список советов себе. Возможно, они пригодятся другим начинающим «удаленщикам».
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+- Самое главное - рабочий режим. Зафиксировать его и работать по графику с … до … . Чтобы не устать и не выгореть, если работать постоянно.
+- Подъем по будильнику. Для меня важно начинить работу утром, а не в обед.
+- Отделять работу и дом. Все домашние дела только после работы.
+- Работа на день должна быть запланирована. Очень желательно планировать следующий день в конце рабочего дня. Список в блокноте, телефоне, как удобно.Так не приходиться держать все дела в голове и утром вспоминать что нужно сделать.
+- Тоже самое про встречи и созвоны. В календарь.
+- Общение с коллегами лучше организовать с помощью звука или видео. Так можно быстрее решить любой вопрос. Переписка замедляет работу.
+- Один из минусов работы дома - отсутствие движения. Это вредит здоровью. Поэтому стараться чаще выходить из дома. Зарядка, прогулки, спорт.
